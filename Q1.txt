@@ -1,0 +1,15 @@
+1. List any twn Git commands and explain their usage along with syntax
+
+1. git init
+Initializes a new Git repository in your project directory.
+
+2. git add <filename>
+Adds changes in files to the staging area before committing.
+
+3. git add .
+Adds All changes in files to the staging area before committing.
+
+4.git status
+Displays the current state of the working directory and staging area.
+
+5.git commit
